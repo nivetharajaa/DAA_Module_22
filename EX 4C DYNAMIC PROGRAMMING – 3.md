@@ -3,7 +3,7 @@
 ## AIM:
 Given a sequence, find the length of the longest palindromic subsequence in it.
 
-## Algorithm
+## Algorithm:
 1.   Reverse the input string to get a second string s2.
 
 2.   Initialize a 2D memoization table dp with -1.
